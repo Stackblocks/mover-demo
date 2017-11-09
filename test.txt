@@ -1,0 +1,8 @@
+To use the file as a script:
+1. Run python moveclass.py in the terminal while in this directory.
+2. Follow the prompts.
+
+To use the file in the interactive shell:
+1. import moveclass
+2. create an instance of the class (e.g. go = Relocate() )
+3. call the functions (e.g. go.copyr(source, dest) / go.movr(source, dest)
